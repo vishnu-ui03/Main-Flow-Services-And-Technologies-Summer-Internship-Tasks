@@ -54,4 +54,5 @@ It allows the user to select an existing buyer, choose products and quantities, 
 ---
 
 ## 🙋‍♀️ Author
-**Harshika Bansal**
+**Avnish Kumar Singh**
+
