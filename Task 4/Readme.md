@@ -52,4 +52,5 @@ This project demonstrates a basic Java Swing application with a homepage interfa
 ![Output3](Screenshots/output3.png)
 
 ## 🙋‍♀️ Author
-Harshika Bansal
+Avnish Kumar Singh
+
