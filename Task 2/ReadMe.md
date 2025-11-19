@@ -108,4 +108,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-Made with ❤️ by Harshika Bansal
+Made with ❤️ by Avnish Kumar Singh
+
