@@ -47,4 +47,5 @@ This project demonstrates how to **search** and **update** **Buyers** and **Prod
 ---
 
 ## 🙋‍♀️ Author
-**Harshika Bansal**
+**Avnish Kumar Singh**
+
