@@ -42,4 +42,5 @@ This project demonstrates how to **add** and **delete** **Buyers** and **Product
 ---
 
 ## 🙋‍♀️ Author
-**Harshika Bansal**
+**Avnish Kumar Singh**
+
